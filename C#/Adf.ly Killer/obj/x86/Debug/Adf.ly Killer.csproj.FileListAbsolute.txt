@@ -1,0 +1,8 @@
+C:\Users\Doddy\Desktop\WarFactory\Warfactory XII\C#\Adf.ly Killer\Adf.ly Killer\Adf.ly Killer\bin\Debug\Adf.ly Killer.exe
+C:\Users\Doddy\Desktop\WarFactory\Warfactory XII\C#\Adf.ly Killer\Adf.ly Killer\Adf.ly Killer\bin\Debug\Adf.ly Killer.pdb
+C:\Users\Doddy\Desktop\WarFactory\Warfactory XII\C#\Adf.ly Killer\Adf.ly Killer\Adf.ly Killer\obj\x86\Debug\Adf.ly_Killer.FormHome.resources
+C:\Users\Doddy\Desktop\WarFactory\Warfactory XII\C#\Adf.ly Killer\Adf.ly Killer\Adf.ly Killer\obj\x86\Debug\Adf.ly_Killer.Properties.Resources.resources
+C:\Users\Doddy\Desktop\WarFactory\Warfactory XII\C#\Adf.ly Killer\Adf.ly Killer\Adf.ly Killer\obj\x86\Debug\Adf.ly Killer.csproj.GenerateResource.Cache
+C:\Users\Doddy\Desktop\WarFactory\Warfactory XII\C#\Adf.ly Killer\Adf.ly Killer\Adf.ly Killer\obj\x86\Debug\Adf.ly Killer.exe
+C:\Users\Doddy\Desktop\WarFactory\Warfactory XII\C#\Adf.ly Killer\Adf.ly Killer\Adf.ly Killer\obj\x86\Debug\Adf.ly Killer.pdb
+C:\Users\Doddy\Desktop\WarFactory\Warfactory XII\C#\Adf.ly Killer\Adf.ly Killer\Adf.ly Killer\obj\x86\Debug\Adf.ly Killer.csprojResolveAssemblyReference.cache
